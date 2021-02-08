@@ -1,0 +1,7 @@
+{
+  "dbhost": "localhost",
+  "dbport": "3306",
+  "dbname": "dobol",
+  "dbusername": "root",
+  "dbpassword": "newpass"
+}
